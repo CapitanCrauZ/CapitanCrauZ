@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### About Me
+
+I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student in Chile. I like programming, games and cinematography, I am looking to be a full-stacks developer and senior programmer
+
 <!--
 **CapitanCrauZ/CapitanCrauZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
