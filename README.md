@@ -38,7 +38,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
 ### Tools 🛠
 
 <p align="left">
-  <img alt="Visual Studio" src="https://img.shields.io/badge/VS-#9F2B68?style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
+  <img alt="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio-#9F2B68?style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
 
@@ -48,8 +48,8 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
 </p>
   
 <p align="left">
-  <img alt="NetBeans" src="https://img.shields.io/badge/Net%20Beans-FF0000?style=for-the-badge&logo=net%20beans&logoColor=white"/>
   <img alt="Unity" src="https://img.shields.io/badge/Unity-0077B5?style=for-the-badge&logo=Unity&logoColor=white"/>
+  <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-FF0000?style=for-the-badge&logo=net%20beans&logoColor=white"/>
 </p>
 
 ### Contact Me 📞
