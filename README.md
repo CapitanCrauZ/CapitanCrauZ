@@ -18,7 +18,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
 
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="NodeJs" src="https://img.shields.io/badge/NodeJs-68A063?style=for-the-badge&logo=nodejs&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
  
 <p align="left">
