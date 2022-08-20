@@ -4,7 +4,14 @@
 
 I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student in Chile. I like programming, games and cinematography, I am looking to be a full-stacks developer and senior programmer.
 
-## Languajes and Frameworks 💻
+### I´m Developing and Working On 🧩
+
+- [Vetus Pluvia](https://github.com/CapitanCrauZ/VETUS-PLUVIA) / A short film animated develop in working.
+- [Neo Mind](https://github.com/CapitanCrauZ/NEO-MIND-PREDECTIVE-AI) / A predective artificial intelligence develop in working.
+- [Portfolio](https://github.com/CapitanCrauZ/PORTFOLIO) / A last exam from my career develop in working.
+- And [others](https://github.com/CapitanCrauZ?tab=repositories).
+
+### Languajes and Frameworks 💻
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=yellow"/>
@@ -19,7 +26,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
 
-## Tools 🛠
+### Tools 🛠
 
 <p align="left">
   <img alt="Office" src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
