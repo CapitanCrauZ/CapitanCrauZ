@@ -52,7 +52,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
   <img alt="Apache NetBeans IDE" src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=white"/>
 </p>
 
-### Contact Me 📞
+### Contact With Me 📞
 
 <p align="left"
   <a href="https://www.linkedin.com/in/paolo-rios-a0349a213/">
@@ -60,7 +60,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
   </a>
 </p>
                                                                                                                             
-### Social Media 👾
+### My Social Media 👾
 
 <p align="left">
   <a href="https://twitter.com/CapitanCrauZ">
