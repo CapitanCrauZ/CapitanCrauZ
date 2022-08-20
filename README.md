@@ -35,7 +35,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
   <img alt="Materialize" src="https://img.shields.io/badge/Materialize-A9225C?style=for-the-badge&logo=monero&logoColor=white"/>
 </p>
 
-### Tools 🛠
+### IDLE's and Tools 📁
 
 <p align="left">
   <img alt="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio-9F2B68?style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
