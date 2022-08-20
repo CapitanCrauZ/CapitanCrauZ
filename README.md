@@ -53,7 +53,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
   
 <p align="left">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-0077B5?style=for-the-badge&logo=Unity&logoColor=white"/>
-  <img alt="Apache NetBeans IDE" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=net%20beans&logoColor=white"/>
+  <img alt="Apache NetBeans IDE" src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=white"/>
 </p>
 
 ### Contact Me 📞
