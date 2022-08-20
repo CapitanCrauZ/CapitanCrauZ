@@ -19,7 +19,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
  
 <p align="left">
   <img alt="C#" src="https://img.shields.io/badge/C%20sharp-800080?style=for-the-badge&logo=C#&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=joplin&logoColor=white"/>
 </p>
 
 <p align="left">
