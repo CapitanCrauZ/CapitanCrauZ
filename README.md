@@ -36,7 +36,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
 <p align="left">
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Materialize" src="https://img.shields.io/badge/Materialize-ffc0cb?style=for-the-badge&logo=materialize&logoColor=white"/>
+  <img alt="Materialize" src="https://img.shields.io/badge/Materialize-ffc0cb?style=for-the-badge&logo=material%20design&logoColor=white"/>
 </p>
 
 ### Tools 🛠
