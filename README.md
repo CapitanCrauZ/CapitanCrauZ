@@ -36,7 +36,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
 <p align="left">
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Materialize" src="https://img.shields.io/badge/Materialize-ffc0cb?style=for-the-badge&logo=material%20design&logoColor=white"/>
+  <img alt="Materialize" src="https://img.shields.io/badge/Materialize-A9225C?style=for-the-badge&logo=material%20design&logoColor=white"/>
 </p>
 
 ### Tools 🛠
@@ -53,7 +53,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
   
 <p align="left">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-0077B5?style=for-the-badge&logo=Unity&logoColor=white"/>
-  <img alt="Apache NetBeans IDE" src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=white"/>
+  <img alt="Apache NetBeans IDE" src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-A5915F?style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=white"/>
 </p>
 
 ### Contact Me 📞
@@ -71,7 +71,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/crauzthequizzical/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>  
 
