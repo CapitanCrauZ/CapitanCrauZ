@@ -10,6 +10,10 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
 - [Neo Mind](https://github.com/CapitanCrauZ/NEO-MIND-PREDECTIVE-AI) / A predective artificial intelligence develop in working.
 - [Portfolio](https://github.com/CapitanCrauZ/PORTFOLIO) / A last exam from my career develop in working.
 
+### Cloud
+
+
+
 ### Frameworks and Languages 🪶
 
 <p align="left">
@@ -38,7 +42,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
 ### Tools 🛠
 
 <p align="left">
-  <img alt="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio-#9F2B68?style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
+  <img alt="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio-9F2B68?style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
 
@@ -49,7 +53,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
   
 <p align="left">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-0077B5?style=for-the-badge&logo=Unity&logoColor=white"/>
-  <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-FF0000?style=for-the-badge&logo=net%20beans&logoColor=white"/>
+  <img alt="Apache NetBeans IDE" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=net%20beans&logoColor=white"/>
 </p>
 
 ### Contact Me 📞
