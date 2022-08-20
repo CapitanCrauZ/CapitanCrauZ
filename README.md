@@ -36,7 +36,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
   <img alt="Unity" src="https://img.shields.io/badge/Unity-0077B5?style=for-the-badge&logo=Unity&logoColor=white"/>
 </p>
 
-### Contact 📞
+### Contact Me 📞
 
 <p align="left"
   <a href="https://www.linkedin.com/in/paolo-rios-a0349a213/">
@@ -44,7 +44,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
   </a>
 </p>
                                                                                                                             
-### Social 👾
+### Social Me 👾
 
 <p align="left">
   <a href="https://twitter.com/CapitanCrauZ">
