@@ -51,7 +51,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/crauzthequizzical/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>  
 
