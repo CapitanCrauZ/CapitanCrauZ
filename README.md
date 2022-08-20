@@ -22,9 +22,11 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
 ## Tools 🛠
 
 <p align="left">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img alt="Office" src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img alt="Office" src="https://img.shields.io/badge/Google%20Colab-525252?style=for-the-badge&logo=google-colab&logoColor=orange"/>
+  <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-D83B01?style=for-the-badge&logo=net-beans&logoColor=white"/>
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-0077B5?style=for-the-badge&logo=Unity&logoColor=white"/>
 </p>
 
 ### Contact 📞
