@@ -23,16 +23,16 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
 </p>
 
 <p align="left">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Materialize" src="https://img.shields.io/badge/Materialize-A9225C?style=for-the-badge&logo=monero&logoColor=white"/>
+</p>
+
+<p align="left">
   <img alt="Django" src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</p>
-
-<p align="left">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Materialize" src="https://img.shields.io/badge/Materialize-A9225C?style=for-the-badge&logo=monero&logoColor=white"/>
 </p>
 
 ### IDLE's and Tools 📁
