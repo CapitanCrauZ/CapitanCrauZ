@@ -10,7 +10,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
 - [Neo Mind](https://github.com/CapitanCrauZ/NEO-MIND-PREDECTIVE-AI) / A predective artificial intelligence develop in working.
 - [Portfolio](https://github.com/CapitanCrauZ/PORTFOLIO) / A last exam from my career develop in working.
 - [Eternal Rewinding](https://github.com/CapitanCrauZ/ETERNAL-REWINDING) / A game project that I always wanted to do.
-- [Telemedical](https://github.com/CapitanCrauZ/TELE-MEDICAL) / A telemedicine project with webcams.
+- [Telemedicine Live](https://github.com/CapitanCrauZ/TELEMEDICINE-LIVE) / A telemedicine project with webcams.
 
 ### Frameworks and Languages 🪶
 
