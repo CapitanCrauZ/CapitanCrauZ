@@ -4,12 +4,13 @@
 
 I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student in Chile. I like programming, games and cinematography, I am looking to be a full-stacks developer and senior programmer.
 
-### I´m Developing and Working On 🧩
+### In Development 🧩
 
 - [Vetus Pluvia](https://github.com/CapitanCrauZ/VETUS-PLUVIA) / A short film animated develop in working.
 - [Neo Mind](https://github.com/CapitanCrauZ/NEO-MIND-PREDECTIVE-AI) / A predective artificial intelligence develop in working.
 - [Portfolio](https://github.com/CapitanCrauZ/PORTFOLIO) / A last exam from my career develop in working.
 - [Eternal Rewinding](https://github.com/CapitanCrauZ/ETERNAL-REWINDING) / A game project that I always wanted to do.
+- [Telemedical] (https://github.com/CapitanCrauZ/) / A telemedicine project with webcams.
 
 ### Frameworks and Languages 🪶
 
