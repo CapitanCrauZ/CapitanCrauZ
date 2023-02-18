@@ -1,16 +1,18 @@
-### Hi Everyone Capitan CrauZ Here👋
+### Hi Everyone (Hola a tod@s)👋
 
-### About Me 🦝
+### About Me (Sobre mí) 🦝
 
-I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student in Chile. I like programming, games and cinematography, I am looking to be a full-stacks developer and senior programmer.
+I am Paolo Rios, I am 22 years old, I am currently a computer engineering graduate from the Duoc UC professional institute, in Chile. I like programming, video games and cinematography, my main long-term goal is to be a full-stack developer and senior programmer.
 
-### In Development 🧩
+Soy Paolo Rios, tengo 22 años, actualmente soy egresado de ingeniería informática de el instituto profesional Duoc Uc, en Chile. Me gusta la programación, los videojuegos y la cinematografía, mi principal objetivo a largo plazo es ser un desarrollador full-stack y programador senior.
 
-- [Vetus Pluvia](https://github.com/CapitanCrauZ/VETUS-PLUVIA) / A short film animated develop in working.
-- [Neo Mind](https://github.com/CapitanCrauZ/NEO-MIND-PREDECTIVE-AI) / A predective artificial intelligence develop in working.
-- [Eternal Rewinding](https://github.com/CapitanCrauZ/ETERNAL-REWINDING) / A game project that I always wanted to do.
+### In Development (En desarrollo) 🧩
 
-### Frameworks and Languages 🪶
+- [Vetus Pluvia](https://github.com/CapitanCrauZ/VETUS-PLUVIA) / A short film animated (Un cortometraje de animación). 
+- [Neo Mind](https://github.com/CapitanCrauZ/NEO-MIND-PREDECTIVE-AI) / A predective artificial intelligence (Una inteligencia artificial predictiva).
+- [Eternal Rewinding](https://github.com/CapitanCrauZ/ETERNAL-REWINDING) / A third person video game project (Un proyecto de videojuego en tercera persona).
+
+### Frameworks and Languages (Frameworks y lenguajes) 🪶
 
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -35,7 +37,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
-### IDLE's and Tools 📁
+### Source Code Editor and Tools (Editor de texto y herramientas) 📁
 
 <p align="left">
   <img alt="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio-9F2B68?style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
@@ -52,7 +54,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
   <img alt="Apache NetBeans IDE" src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=white"/>
 </p>
 
-### Contact With Me 📞
+### Contact With Me (Contactate conmigo) 📞
 
 <p align="left"
   <a href="https://www.linkedin.com/in/paolo-rios-a0349a213/">
@@ -60,7 +62,7 @@ I'm Paolo Rios, I'm 22 years old, I'm currently a computer engineering student i
   </a>
 </p>
                                                                                                                             
-### My Social Media 👾
+### My Social Media (Mis redes sociales) 👾
 
 <p align="left">
   <a href="https://www.instagram.com/ephemeralcrauz/">
