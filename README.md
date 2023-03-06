@@ -54,7 +54,7 @@ Soy Paolo Rios, tengo 22 años, actualmente soy egresado de ingeniería informá
   <img alt="Apache NetBeans IDE" src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=white"/>
 </p>
 
-### Contact With Me (Contactate conmigo) 📞
+### Contact With Me (Contactame) 📞
 
 <p align="left"
   <a href="https://www.linkedin.com/in/paolo-rios-a0349a213/">
